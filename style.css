@@ -1,0 +1,40 @@
+body {
+  font-family: Tahoma;
+}
+span {
+  font-size: 14px;
+}
+
+img {
+  border: 5px solid #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: middle;
+  box-shadow: 2px 1px 1px;
+}
+
+#tribute {
+  background-color:  #000000;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 2px 1px 1px;
+}
+
+div h5 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-style: italic;
+}
+
+#exploits {
+  background-color: #003300;
+  color: white;
+}
+
+#more-info {
+  margin-top: 20px;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
